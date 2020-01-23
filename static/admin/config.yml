@@ -1,7 +1,7 @@
 backend:
-  name: gitgub
+  name: github
   repo: badran1/testgb
-  
+
 media_folder: static/assets
 public_folder: assets
 
